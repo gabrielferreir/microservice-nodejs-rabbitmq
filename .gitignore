@@ -1,0 +1,9 @@
+.idea
+
+product/node_modules
+product/product
+product/package-lock.json
+
+request/node_modules
+request/request
+request/package-lock.json
